@@ -11,10 +11,10 @@ Este projeto consiste em um sistema de monitoramento inteligente voltado para o 
 
 
 ## Demonstração
-### Cenário 1: Sistemas em Estado Crítico
+### Cenário 1:
 ![Dados da missão](assets/dados_missao.png)
 
-### Cenário 2: Resposta e Alerta da IA
+### Cenário 2:
 ![Alerta crítico](assets/alerta_critico.png)
 
 
